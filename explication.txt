@@ -1,0 +1,15 @@
+git branch  -- all branches
+git branch nameBranche  -- New branch
+git checkout nameBranche   -- change branch
+
+git merge -- merge branches
+
+
+
+--------------
+git init
+git add .
+git commit -m 'Mis a jour'
+
+git pull origin fabrice
+git push origin fabrice
